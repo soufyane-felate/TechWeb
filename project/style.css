@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #111;
     color: #fff;
+
 }
 *
 {
@@ -76,6 +77,13 @@ box-sizing: border-box;
     color: #10e2ed;
 }
 
+select
+{
+    font-weight: bold;
+    border: none;
+    background-color: white;
+}
+
 .btn {
     background-color: #0a0a09;
     color: #fff;
@@ -122,6 +130,13 @@ footer
     display: flex;
     justify-content: center;
     
+}
+hr
+{
+    height: 30px;
+    background-image: linear-gradient(to right, rgb(10, 10, 10) , rgb(109, 109, 103));
+
+
 }
 .i1 , .i2 ,.i3 , .i4
 {
